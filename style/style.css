@@ -21574,8 +21574,8 @@ ul.mm-listview li span.kingster-mm-menu-blank {
 }
 
 .mm-navbar .mm-btn:before {
-    content: "\34";
-    font-family: elegantIcons;
+    content: "\f00d";
+    font-family: "fontAwesome";
 }
 
 .mm-navbar .mmenu-custom-close {
